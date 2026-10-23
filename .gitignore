@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.wav
+*.mp3
+*.mp4
+clips/
+transcript_win/
+windows/
+referencias/
+generados/
